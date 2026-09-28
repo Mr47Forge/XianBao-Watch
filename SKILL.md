@@ -11,7 +11,7 @@
 ### 1. 获取项目
 
 ```bash
-git clone https://github.com/zgt47/XianBao-Watch.git
+git clone https://github.com/Mr47Forge/XianBao-Watch.git
 cd XianBao-Watch
 ```
 
