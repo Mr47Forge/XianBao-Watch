@@ -22,7 +22,7 @@ XianBao-Lite 的外部存活监控脚本。
 ## 安装
 
 ```bash
-git clone https://github.com/zgt47/XianBao-Watch.git
+git clone https://github.com/Mr47Forge/XianBao-Watch.git
 cd XianBao-Watch
 ```
 
